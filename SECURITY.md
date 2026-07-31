@@ -93,7 +93,7 @@ class RoleChecker:
 If you discover a security vulnerability within **Fitness Tracker Using Machine Learning**, please refrain from filing public GitHub issues. Instead, report the security vulnerability directly to the project author and maintainer:
 
 - **Security Contact**: **Ravi Ranjan Singh**
-- **Email**: `raviranjansingh.dev@gmail.com`
+- **Email**: `raviranjansingh601520@gmail.com`
 - **Response SLA**: Vulnerability reports are acknowledged within 24 hours, with patch deployment updates provided within 72 hours.
 
 ---

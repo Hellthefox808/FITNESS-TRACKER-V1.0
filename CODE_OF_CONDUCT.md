@@ -51,5 +51,5 @@ an individual is officially representing the community in public spaces.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the project maintainer **Ravi Ranjan Singh** at `raviranjansingh.dev@gmail.com`. All
+reported to the project maintainer **Ravi Ranjan Singh** at `raviranjansingh601520@gmail.com`. All
 complaints will be reviewed and investigated promptly and fairly.

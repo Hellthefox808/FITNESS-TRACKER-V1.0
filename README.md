@@ -149,7 +149,7 @@ For complete architectural specifications, audit reports, and deployment bluepri
 
 - **Role**: Project Author & Lead Repository Maintainer
 - **GitHub Repository**: [https://github.com/Hellthefox808/FITNESS-TRACKER-V1.0.git](https://github.com/Hellthefox808/FITNESS-TRACKER-V1.0.git)
-- **Contact**: `raviranjansingh.dev@gmail.com`
+- **Contact**: `raviranjansingh601520@gmail.com`
 
 ---
 

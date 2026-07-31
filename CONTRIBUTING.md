@@ -5,7 +5,7 @@ Thank you for your interest in contributing to **Fitness Tracker Using Machine L
 ---
 
 ## 1. Code of Conduct
-All contributors are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please report unacceptable behavior to `raviranjansingh.dev@gmail.com`.
+All contributors are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please report unacceptable behavior to `raviranjansingh601520@gmail.com`.
 
 ---
 
@@ -47,4 +47,4 @@ python -m unittest tests/unit/test_inference.py tests/integration/test_api.py te
 
 ## 4. Repository Ownership
 - **Repository Maintainer**: **Ravi Ranjan Singh**
-- **Contact**: `raviranjansingh.dev@gmail.com`
+- **Contact**: `raviranjansingh601520@gmail.com`

@@ -198,5 +198,5 @@ The application is fully containerized using Docker, allowing seamless orchestra
 ## 8. Authorship & Maintenance
 
 - **System Architect & Lead Engineer**: **Ravi Ranjan Singh**
-- **Contact**: `raviranjansingh.dev@gmail.com`
+- **Contact**: `raviranjansingh601520@gmail.com`
 - **License**: MIT License
